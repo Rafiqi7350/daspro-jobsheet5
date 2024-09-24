@@ -23,8 +23,8 @@ public class PemilihanOperator {
                 System.out.println("Hasil: " + (angka1 / angka2));
             } else {
                 System.out.println("Operator yang dipilih tidak sesuai");
-                }
-            
-                }
             }
+            
+     }
+}
          
